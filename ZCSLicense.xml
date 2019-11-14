@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ZimbraLicense verifier="ZV2">
+  <item name="AccountsLimit" value="50"/>
+  <item name="ArchivingAccountsLimit" value="50"/>
+  <item name="AttachmentConversionEnabled" value="true"/>
+  <item name="AttachmentIndexingAccountsLimit" value="50"/>
+  <item name="BackupEnabled" value="true"/>
+  <item name="CrossMailboxSearchEnabled" value="true"/>
+  <item name="EwsAccountsLimit" value="50"/>
+  <item name="HierarchicalStorageManagementEnabled" value="true"/>
+  <item name="ISyncAccountsLimit" value="50"/>
+  <item name="InstallType" value="trial"/>
+  <item name="IssuedOn" value="20191112093838Z"/>
+  <item name="IssuedToEmail" value="support@juragan-network.my.id"/>
+  <item name="IssuedToName" value="JN"/>
+  <item name="LicenseId" value="8b90e6dd-6f46-42a4-9327-37eac3aed614"/>
+  <item name="MAPIConnectorAccountsLimit" value="50"/>
+  <item name="MobileSyncAccountsLimit" value="50"/>
+  <item name="MobileSyncEnabled" value="true"/>
+  <item name="ResellerName" value=""/>
+  <item name="SMIMEAccountsLimit" value="50"/>
+  <item name="TouchClientsAccountsLimit" value="50"/>
+  <item name="TwoFactorAuthAccountsLimit" value="50"/>
+  <item name="ValidFrom" value="20191111000000Z"/>
+  <item name="ValidUntil" value="20200113170000Z"/>
+  <item name="VoiceAccountsLimit" value="50"/>
+  <item name="ZSSAccountsLimit" value="50"/>
+  <item name="ZTalkAccountsLimit" value="50"/>
+  <signature value="41663fc588ea4ad2d8c8d0ad6deebc56be116d938f27df751ddffee41f2f7cb6029c947e9ef981dc085653570ae7115ed72961c02a23148e73a14481ba7c1461537e1fbb3ae4089ed4080e67b17a95e31312e65c89528c2e3f9c793397e0613297add7a42b00c52a7eb0b69dbac88f678807cf180b7f658561cb390f9e08785736d8d454d9eed474ed2fbfbae828de7f4805a4689667da70a34c33eb46dd466b56e63e09ae2f44764ac15cb396c9fae8674c9ddd77303e9e209410168ccae8c78052278bc6308289776236bf4efdae82f296b3cb8787a65b001d01693164a8b0886b6d014e3316669465c6bdb8cb83ac5bbc45f63995f8927140668dae8e38cb" key="zk1"/>
+</ZimbraLicense>
